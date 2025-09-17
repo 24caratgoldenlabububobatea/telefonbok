@@ -1,3 +1,4 @@
+#link til github repo: https://github.com/24caratgoldenlabububobatea/telefonbok
 telefonbok = []
 
 telefonbok.append({
