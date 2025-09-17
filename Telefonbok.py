@@ -14,4 +14,9 @@ telefonbok.append({
     }
 })
 
-print(telefonbok)
+def vis_alle():
+    for person in telefonbok:
+        for key, info in person.items():
+            print(f"{info['navn']}: {info['nummer']}.") #omg dette tok så lang tiddddd TᴖT
+    
+vis_alle()
