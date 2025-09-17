@@ -76,6 +76,6 @@ def main_menu():
             print("Ugyldig valg, prøv igjen.")
 
 
-main_menu()
+main_menu()#Yipe!!!!!:P
 
         
